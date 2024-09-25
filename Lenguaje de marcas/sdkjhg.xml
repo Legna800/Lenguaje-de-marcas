@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Centro_fp>
+  <aula>
+  <Nombre_Aula>Aula 1</Nombre_Aula>
+
+    <Planta>Planta 1</Planta>
+
+    <Capacidad_Alumnos cantidad="30"></Capacidad_Alumnos>
+
+    <ordenadores>
+      <Cantidad cantidad="30">Windows</Cantidad>
+      <Programas>
+        <Programa>Word</Programa>
+        <Programa>Valorant</Programa>
+        <Programa>Teams</Programa>
+      </Programas>
+    </ordenadores>
+
+    <Asignaturas>
+      <asignatura>Mates</asignatura>
+      <asignatura>Aim Training</asignatura>
+      <asignatura>Base de Datos</asignatura>
+    </Asignaturas>
+  </aula>
+
+  <aula>
+    <Nombre_Aula>Aula 2</Nombre_Aula>
+
+    <Planta>Planta 2</Planta>
+
+    <Capacidad_Alumnos cantidad="27"></Capacidad_Alumnos>
+
+    <ordenadores>
+      <Cantidad cantidad="27">Windows</Cantidad>
+      <Programas>
+        <Programa>Word</Programa>
+        <Programa>Valorant</Programa>
+        <Programa>Teams</Programa>
+      </Programas>
+    </ordenadores>
+    
+    <Asignaturas>
+      <asignatura>Mates</asignatura>
+      <asignatura>Aim Training</asignatura>
+      <asignatura>Base de Datos</asignatura>
+    </Asignaturas>
+  </aula>
+</Centro_fp>
